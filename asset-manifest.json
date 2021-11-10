@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/allCards-firstReactApp/static/css/main.62f22ca0.chunk.css",
+    "main.js": "/allCards-firstReactApp/static/js/main.0c1e4889.chunk.js",
+    "main.js.map": "/allCards-firstReactApp/static/js/main.0c1e4889.chunk.js.map",
+    "runtime-main.js": "/allCards-firstReactApp/static/js/runtime-main.8b6b9c91.js",
+    "runtime-main.js.map": "/allCards-firstReactApp/static/js/runtime-main.8b6b9c91.js.map",
+    "static/js/2.9e27824e.chunk.js": "/allCards-firstReactApp/static/js/2.9e27824e.chunk.js",
+    "static/js/2.9e27824e.chunk.js.map": "/allCards-firstReactApp/static/js/2.9e27824e.chunk.js.map",
+    "static/js/3.fc3e49c5.chunk.js": "/allCards-firstReactApp/static/js/3.fc3e49c5.chunk.js",
+    "static/js/3.fc3e49c5.chunk.js.map": "/allCards-firstReactApp/static/js/3.fc3e49c5.chunk.js.map",
+    "index.html": "/allCards-firstReactApp/index.html",
+    "static/css/main.62f22ca0.chunk.css.map": "/allCards-firstReactApp/static/css/main.62f22ca0.chunk.css.map",
+    "static/js/2.9e27824e.chunk.js.LICENSE.txt": "/allCards-firstReactApp/static/js/2.9e27824e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b6b9c91.js",
+    "static/js/2.9e27824e.chunk.js",
+    "static/css/main.62f22ca0.chunk.css",
+    "static/js/main.0c1e4889.chunk.js"
+  ]
+}
